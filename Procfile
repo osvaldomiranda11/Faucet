@@ -1,1 +1,1 @@
-web: gunicorn faucetcoin:app
+web: python app.py
